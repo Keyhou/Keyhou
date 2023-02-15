@@ -3,8 +3,12 @@
 
 - 🛠 I’m currently working on personal projects, learning SwiftUI and tinkering electronics
 - 🔍 I’m looking for an iOS Developer position & to collaborate on meaningful projects 🌱
-- 📱 Last fun project our team did during the Apple Developer Academy was [OnlyFeat](https://apps.apple.com/fr/app/onlyfeat/id1626507841?at=1l3v87c&ct=mac)
 - 💬 Ask me anything about 🍎 devices or the vital amount of 🍫
+- 📱 Last fun project our team did during the Apple Developer Academy was [OnlyFeat](https://apps.apple.com/fr/app/onlyfeat/id1626507841?at=1l3v87c&ct=mac) 👇
+
+![OnlyFeat - App Store Template](https://user-images.githubusercontent.com/31210145/219065748-87f166f0-5789-4f08-93f9-25b528517796.png)
+
+
 
 <!--
 **Keyhou/Keyhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
