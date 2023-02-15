@@ -4,7 +4,7 @@
 - 🛠 I’m currently working on personal projects, learning SwiftUI and tinkering electronics
 - 🔍 I’m looking for an iOS Developer position & to collaborate on meaningful projects 🌱
 - 📱 Last fun project our team did during the Apple Developer Academy was [OnlyFeat](https://apps.apple.com/fr/app/onlyfeat/id1626507841?at=1l3v87c&ct=mac)
-- 💬 Ask me anythings about 🍎 devices or the vital amount of 🍫
+- 💬 Ask me anything about 🍎 devices or the vital amount of 🍫
 
 <!--
 **Keyhou/Keyhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
