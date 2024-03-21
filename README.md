@@ -4,7 +4,7 @@
 - 🛠 I’m currently working on personal projects, learning SwiftUI and tinkering electronics
 - 🔍 I’m looking for iOS Developer engagements & to collaborate on meaningful projects 🌱
 - 💬 Ask me anything about 🍎 devices or the vital amount of 🍫
-- 📱 Last fun project our team did during the Apple Developer Academy was [OnlyFeat](https://apps.apple.com/fr/app/onlyfeat/id1626507841?at=1l3v87c&ct=mac)
+- 📱 Last fun project our team did during the Apple Developer Academy was [OnlyFeat](https://apps.apple.com/fr/app/onlyfeat/id1626507841?at=1l3v87c&ct=mac) 👈
 
 
 
